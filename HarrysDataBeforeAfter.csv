@@ -1,0 +1,17 @@
+Pair#,tc,ba,sales
+1,control,after,3894
+2,control,after,2075
+3,control,after,2600
+4,control,after,2000
+1,treatment,after,4498
+2,treatment,after,3620
+3,treatment,after,2439
+4,treatment,after,2015
+1,control,before,3784
+2,control,before,1823
+3,control,before,2320
+4,control,before,2132
+1,treatment,before,4207
+2,treatment,before,3253
+3,treatment,before,2097
+4,treatment,before,1985

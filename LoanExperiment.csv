@@ -1,0 +1,17 @@
+Type,Region,Description,PositiveExample,NegativeExample,PercComplete
+Loan,Midwest,Current,Current,Yes,46.5
+Lease,Midwest,Current,Current,None,47.2
+Loan,Northeast,Current,Current,None,40.5
+Lease,Northeast,Current,Current,Yes,49.8
+Loan,Midwest,Enhanced,Current,None,60.2
+Lease,Midwest,Enhanced,Current,Yes,65.8
+Loan,Northeast,Enhanced,Current,Yes,58.5
+Lease,Northeast,Enhanced,Current,None,57.2
+Loan,Midwest,Current,Enhanced,None,88.7
+Lease,Midwest,Current,Enhanced,Yes,81.4
+Loan,Northeast,Current,Enhanced,Yes,83.9
+Lease,Northeast,Current,Enhanced,None,79.3
+Loan,Midwest,Enhanced,Enhanced,Yes,91.6
+Lease,Midwest,Enhanced,Enhanced,None,99.3
+Loan,Northeast,Enhanced,Enhanced,None,96.3
+Lease,Northeast,Enhanced,Enhanced,Yes,94.2

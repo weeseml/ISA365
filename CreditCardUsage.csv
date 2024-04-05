@@ -1,0 +1,32 @@
+Treatment1,Treatment2,CardUsage
+Control,Control,450
+Control,Control,500
+Control,Control,450
+Control,Control,400
+Control,Control,450
+Control,$5 Coupon,500
+Control,$5 Coupon,500
+Control,$5 Coupon,600
+Control,$5 Coupon,400
+Control,$5 Coupon,500
+Control,$10 Coupon,500
+Control,$10 Coupon,550
+Control,$10 Coupon,550
+Control,$10 Coupon,500
+Control,$10 Coupon,500
+1% Cash Rebate,Control,500
+1% Cash Rebate,Control,450
+1% Cash Rebate,Control,500
+1% Cash Rebate,Control,450
+1% Cash Rebate,Control,470
+1% Cash Rebate,$5 Coupon,650
+1% Cash Rebate,$5 Coupon,700
+1% Cash Rebate,$5 Coupon,700
+1% Cash Rebate,$5 Coupon,650
+1% Cash Rebate,$5 Coupon,600
+1% Cash Rebate,$10 Coupon,800
+1% Cash Rebate,$10 Coupon,850
+1% Cash Rebate,$10 Coupon,900
+1% Cash Rebate,$10 Coupon,800
+1% Cash Rebate,$10 Coupon,950
+ ,,
